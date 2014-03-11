@@ -1,2 +1,2 @@
-ez az alma directory itt
+ez az alma directory 2 itt
 betettem meg 1 sort
