@@ -1,0 +1,1 @@
+ez az alma directory
